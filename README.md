@@ -7,6 +7,11 @@
 - **Language & Tools**: Developed in C++, "BeyondPlatformerLimits" showcases the power of the language combined with the Windows API. 
 - **Memory Manipulation**: The project provides a fresh perspective on 2D platformer gameplay by manipulating game memory.
 - **Deep Dive into Pointers**: Through multi-level pointers and intricate memory addresses, this project unveils the intricacies of low-level programming and how game mechanics work under the hood.
+  
+
+Here's a demo showcasing the fresh initialization of the target game process and the activation of the fly hack:
+
+https://github.com/VladRumsh/BeyondPlatformerLimits/assets/50557993/e283f79b-f1b6-43e2-8b94-9dbd053872c3
 
 ## 🛠️ Technical Highlights:
 
