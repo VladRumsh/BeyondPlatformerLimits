@@ -29,4 +29,4 @@ https://github.com/VladRumsh/BeyondPlatformerLimits/assets/50557993/e283f79b-f1b
 
 ## 📝 Authors:
 
-- **Vladislav Rumsh** - Initial work - [VladRumsh](https://github.com/VladRumsh)
+- **Vladislav Rumsh** - Initial work - [VladislavRumsh](https://github.com/VladislavRumsh)
