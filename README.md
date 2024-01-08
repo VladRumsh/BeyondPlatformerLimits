@@ -1,32 +1,37 @@
-# 🎮 BeyondPlatformerLimits: 2D Fly Hack Exploration
+# BeyondPlatformerLimits: 2D Fly Hack Exploration
 
-"BeyondPlatformerLimits" epitomizes the intersection of gaming and technical expertise. More than a game hack, it's a testament to perseverance, deep technical knowledge, and the will to redefine gameplay boundaries. This project demonstrates the capabilities of C++ and the Windows API, specifically targeting the Cheat Engine 7.5's game tutorial (lvl 3).
+"BeyondPlatformerLimits" is a unique exploration of gaming limits through technical expertise. It showcases deep insights into game hacking by manipulating the game memory of the Cheat Engine 7.5 tutorial (level 3). This project is a blend of creativity and technical proficiency, demonstrating advanced C++ and Windows API capabilities.
 
-## 🚀 Project Overview:
+## Project Overview
 
-- **Language & Tools**: Developed in C++, "BeyondPlatformerLimits" showcases the power of the language combined with the Windows API. 
-- **Memory Manipulation**: The project provides a fresh perspective on 2D platformer gameplay by manipulating game memory.
-- **Deep Dive into Pointers**: Through multi-level pointers and intricate memory addresses, this project unveils the intricacies of low-level programming and how game mechanics work under the hood.
-  
+- **Language & Tools**: Developed in C++, this project illustrates the effective combination of programming skills and the Windows API.
+- **Memory Manipulation**: Offers a unique take on 2D platformer gameplay by directly interacting with game memory.
+- **Advanced Pointer Manipulation**: Demonstrates proficiency in navigating through multi-level pointers and complex memory addresses.
 
-Here's a demo showcasing the fresh initialization of the target game process and the activation of the fly hack:
+## Technical Highlights
 
-https://github.com/VladRumsh/BeyondPlatformerLimits/assets/50557993/e283f79b-f1b6-43e2-8b94-9dbd053872c3
+- **Multi-Level Pointers**: Skillfully navigates game memory to manipulate gameplay.
+- **Windows API Expertise**: Utilizes functions like `GetProcessID`, `CreateToolhelp32Snapshot`, and `ReadProcessMemory` for direct process memory interaction.
+- **Clear Code Structure & Commenting**: The code is organized for easy understanding, with comprehensive comments explaining complex operations.
+- **Ethical Considerations**: The project pushes technical boundaries while maintaining a high standard of ethics in game hacking.
 
-## 🛠️ Technical Highlights:
+## Challenges & Solutions
 
-- **Multi-Level Pointers**: Navigate game memory with proficiency. By adeptly moving through pointer chains, the code pinpoints memory addresses that dictate gameplay.
-- **Windows API Mastery**: Interact directly with process memory using the Windows.h library. Functions like `GetProcessID`, `CreateToolhelp32Snapshot`, and `ReadProcessMemory` are expertly employed.
-- **Code Structure & Commenting**: The code is structured optimally for readability and accessibility. Detailed comments make complex operations easy to understand.
-- **Ethical Game Hacking**: Push boundaries while maintaining respect for the gaming community.
+- **Pointer Consistency**: Identifying a consistent multi-level pointer across different systems was a significant challenge, addressed by thorough testing with Cheat Engine's pointer scans.
+- **Optimized Design**: The complex design of the project required meticulous attention to detail and deep understanding.
+- **Memory Management**: Efficient management of various data types was crucial for successful memory interfacing.
+- **Debugging**: The project involved overcoming numerous bugs and challenges, showcasing patience and technical skill.
 
-## 🤔 Challenges & Struggles:
+## Demo
 
-- **Pointer Discovery**: The challenge was to identify a consistent multi-level pointer across different systems. This involved testing numerous pointers with Cheat Engine's pointer scans.
-- **Design**: The project's design is complex yet optimized. Crafting it from scratch required deep attention to detail.
-- **Data Types & Memory Management**: Managing and implementing various data types was crucial, especially when interfacing with memory.
-- **Debugging & Issue Resolution**: Numerous bugs and challenges arose that demanded patience, perseverance, and deep understanding.
+Watch a demonstration of the fly hack in action:
 
-## 📝 Authors:
+[Demo Video Link](https://github.com/VladRumsh/BeyondPlatformerLimits/assets/50557993/e283f79b-f1b6-43e2-8b94-9dbd053872c3)
 
-- **Vladislav Rumsh** - Initial work - [VladislavRumsh](https://github.com/VladislavRumsh)
+## Authors
+
+- **Vladislav Rumsh** - Initial work and continuous development. [VladislavRumsh](https://github.com/VladislavRumsh)
+
+## License
+
+This project is released under the MIT License. See the [LICENSE](LICENSE) file for more details.
